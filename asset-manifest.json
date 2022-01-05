@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expensepractice/static/css/main.84acc1b0.css",
+    "main.js": "/expensepractice/static/js/main.ff36df40.js",
+    "static/js/787.15dd2b1a.chunk.js": "/expensepractice/static/js/787.15dd2b1a.chunk.js",
+    "index.html": "/expensepractice/index.html",
+    "main.84acc1b0.css.map": "/expensepractice/static/css/main.84acc1b0.css.map",
+    "main.ff36df40.js.map": "/expensepractice/static/js/main.ff36df40.js.map",
+    "787.15dd2b1a.chunk.js.map": "/expensepractice/static/js/787.15dd2b1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84acc1b0.css",
+    "static/js/main.ff36df40.js"
+  ]
+}
